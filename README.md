@@ -15,8 +15,8 @@ You can also open `Evergreen-Drive/index.html` directly. Keep its neighboring fi
 
 ## What's included
 
-- **12 study routes** with 128 bite-sized, source-linked lessons.
-- **128 original practice questions**, each with an explanation and the supporting PDF page.
+- **12 study routes** with 155 bite-sized, source-linked lessons.
+- **155 original practice questions**, each with an explanation and the supporting PDF page.
 - **20 distinct numbered mock tests**: 40 questions each, with a passing threshold of 32/40 (80%).
 - Topic practice, daily-five challenges, flashcards, saved questions, and mistake review.
 - Spaced recall, progress tracking, study streaks, XP, and milestones.
@@ -25,7 +25,15 @@ You can also open `Evergreen-Drive/index.html` directly. Keep its neighboring fi
 - The complete **191-page official guide** and searchable offline text.
 - Optional sound effects, reduced motion, keyboard controls, and progress backup/restore.
 
-Each mock has 40 unique questions and covers all 12 routes. The 20 forms are different combinations from the shared 128-question bank, so questions recur across forms. Answer choices are shuffled on each attempt. These are original practice questions, not actual DOL exam items.
+Each mock has 40 unique questions and covers all 12 routes. The 20 forms are different combinations from the shared 155-question bank, so questions recur across forms. Answer choices are shuffled on each attempt. These are original practice questions, not actual DOL exam items.
+
+## Visual learning
+
+Open **Visual signs** from the sidebar for 27 illustrated cards, a visual practice deck, and visual flashcards. Official sign and lane-marking crops also appear in relevant lessons, questions, and answer reviews. Every newly started mock form includes at least six visual questions; existing saved sessions retain their original question lists.
+
+The 29 core question illustrations are embedded in `content.js`, so they load offline without separate image paths. The full-page sign atlas remains available under **Visual signs → Full guide pages**.
+
+![A visual mock-test question](docs/visual-mock.png)
 
 ## Sources
 
@@ -70,3 +78,5 @@ node tests/test_app.cjs
 The checks cover all 20 test forms, question uniqueness and topic coverage, the 32/40 scoring boundary, unanswered questions, repeat submissions, persistence, review scheduling, and source-reference bounds.
 
 The official guide and its reproduced pages are third-party materials credited to the Washington State Department of Licensing. Their inclusion does not imply ownership or endorsement.
+
+Illustration extraction can be reproduced with `python3 scripts/add_visuals.py` (developer-only dependencies: Pillow and Poppler). The app itself needs neither. Crops preserve official artwork and exclude the guide’s answer captions.

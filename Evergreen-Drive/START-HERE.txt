@@ -11,12 +11,12 @@ No installation, account, internet connection, or local server is required.
 JavaScript must be enabled. Click the music-note button to enable sound.
 
 WHAT'S INSIDE
-• 12 study routes with 128 short, source-linked lessons.
-• 128 original multiple-choice questions with explanations.
+• 12 study routes with 155 short, source-linked lessons.
+• 155 original multiple-choice questions with explanations.
 • 20 numbered mock tests, each containing 40 unique questions.
 • 32/40 (80%) passing threshold, verified on the official DOL website.
 • All 12 topics appear in every mock. Forms are distinct but share questions
-  from the 128-question bank. Answer choice order changes between attempts.
+  from the 155-question bank. Answer choice order changes between attempts.
 • Practice by topic, daily-five challenges, and flashcards.
 • Missed-question review, bookmarks, and spaced recall.
 • Saved mock sessions, flags, question navigation, and post-test explanations.
@@ -78,4 +78,9 @@ All assets load from relative paths using ordinary scripts (no fetch, module
 loading, service worker, build tools, or server dependency).
 
 VERSION
-Evergreen Drive 1.0 — November 9, 2026.
+Evergreen Drive 1.1 — November 9, 2026.
+
+VISUAL UPDATE 1.1
+Open Visual signs for illustrated cards and visual practice. New mock forms
+include at least six visual questions. Existing saved sessions keep their
+original questions. Core question images are embedded for reliable offline use.

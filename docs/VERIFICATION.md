@@ -40,3 +40,19 @@ Limits:
   backups and a visible storage-failure message are provided.
 - Practice content reflects the supplied guide edition; no claim of access to
   actual DOL questions, official topic weighting, or guaranteed test readiness.
+
+## Visual update 1.1
+
+- 155 questions, including 27 new visual recognition questions; 29 embedded
+  original-guide crops. Reviewed crop contact sheet to exclude answer captions.
+- All 20 new forms still contain 40 distinct questions across 12 routes. Each
+  has at least 6 visual questions; together the forms cover all 155 questions.
+- Tests verify images in lesson, gallery, question, and result render paths,
+  embedded-data validity, source references, and persisted visual-question IDs.
+- Browser verified 27/27 gallery images loaded; visible lesson image and mock
+  question image verified without an explanatory answer caption.
+- Existing progress IDs remain unchanged; storage version is unchanged, and
+  question-count validation uses the current bank size.
+- Full-page atlas assets remain bundled. Core question images no longer depend
+  on separate image-file paths.
+- Browser QA used the local HTTP preview; direct file URL QA remains unavailable.

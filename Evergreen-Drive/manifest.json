@@ -1,15 +1,15 @@
 {
   "name": "Evergreen Drive",
-  "version": "1.0",
+  "version": "1.1",
   "guide_edition": "520-400 (R/4/25)",
   "guide_downloaded": "2026-11-09",
-  "question_count": 128,
+  "question_count": 155,
   "mock_test_forms": 20,
   "questions_per_mock": 40,
   "passing_correct": 32,
   "files": {
-    "START-HERE.txt": "015c97206f0f692a79d5bc733f5251b16d3d2469a95677240a2a4562def7767a",
-    "app.js": "a767d1b272932434873ceddc9a18398609e338ce22b211a57959b267f6ac6756",
+    "START-HERE.txt": "917195fe65a1bd82d81486630e24fdf67e5b1261fcbd521e43d84a07875578ef",
+    "app.js": "2d897f0ddc0056f175f580bde4eecbdf6654234fa71bea27ce434288481d4be3",
     "assets/signs/page-110.png": "2460a72ab1c1e507ae8f0ee7b15d297817c7ea17dd2523f20c80385f83d09970",
     "assets/signs/page-111.png": "92c8483d6b076b669b416a14c4d3f8c256f7a9a8c270330f22f25ec823571175",
     "assets/signs/page-112.png": "f4750ead7a1e4bc6ad9d8c3aa47937e8aee04f6f7cda4876091054404ff7ad7d",
@@ -22,8 +22,10 @@
     "assets/signs/page-119.png": "cfd1960bd120ce3fe5feb5aaf9430f101bba508c76ac540310b9f88896dc2dbf",
     "assets/signs/page-120.png": "750341159d380083a370e3f683feb10c3194174bd08aebecb19179f4bd7f1732",
     "assets/washington-driver-guide.pdf": "e4972693250cfd01f8fe5586fefb288d32939cd89067d42962b78fd1fa3405b4",
-    "content.js": "a6b761918ba58e191fe7836c172fd3ffcb8ebe164b36af3a66a50bc84d37a3b1",
+    "content.js": "ba308eba1a040bcf45860749160a13cfda8a4ed0d8d0a67d362209c06beb4f5b",
     "index.html": "85ff84ecc0b8a122a75a35fdb5f853e67722849a8bd3cffe7a1ab04b1f3ae17a",
-    "style.css": "91be227e83cd72cde5b32d1189775e5f71843b134cc3373709117e81e40e1b2f"
-  }
+    "style.css": "f0b6ccf703f1dd5fa3f0440a9e6e66e4fe064d10406986a567cd431a463ade09"
+  },
+  "embedded_visual_assets": 29,
+  "minimum_visual_questions_per_new_mock": 6
 }
