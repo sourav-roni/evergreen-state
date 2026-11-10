@@ -1,0 +1,81 @@
+EVERGREEN DRIVE
+Your road to ready — Washington driving knowledge preparation
+
+OPEN THE APP
+1. Extract the ZIP (do not open index.html from inside a ZIP preview).
+2. Keep the entire Evergreen-Drive folder together.
+3. Double-click index.html. If needed, right-click it and choose Open With
+   your current desktop browser (Chrome, Edge, Firefox, or Safari).
+
+No installation, account, internet connection, or local server is required.
+JavaScript must be enabled. Click the music-note button to enable sound.
+
+WHAT'S INSIDE
+• 12 study routes with 128 short, source-linked lessons.
+• 128 original multiple-choice questions with explanations.
+• 20 numbered mock tests, each containing 40 unique questions.
+• 32/40 (80%) passing threshold, verified on the official DOL website.
+• All 12 topics appear in every mock. Forms are distinct but share questions
+  from the 128-question bank. Answer choice order changes between attempts.
+• Practice by topic, daily-five challenges, and flashcards.
+• Missed-question review, bookmarks, and spaced recall.
+• Saved mock sessions, flags, question navigation, and post-test explanations.
+• Progress, study streaks, XP, topic coverage, and milestones.
+• An illustrated sign atlas reproduced from the official guide.
+• The complete 191-page PDF and searchable offline text.
+• Sound toggle, reduced motion, keyboard controls, backup and restore.
+
+A GOOD STUDY ROUTINE
+Read a route and the corresponding full-guide pages. Practice that route.
+Return to missed questions and due flashcards. Take several different mock
+forms. Review explanations, including questions you guessed correctly.
+Read the complete official guide, including illustrations and exceptions.
+
+YOUR PROGRESS
+Progress is saved in browser storage on this computer, not in this folder.
+Use the same browser and folder location when returning. Private browsing,
+clearing browser data, browser settings, and moving the folder can affect
+persistence. Preferences → Export backup saves a portable JSON file.
+Use Preferences → Import backup to restore it; confirmation is shown first.
+Back up before moving the app or switching browsers.
+
+SHARING
+Send this entire folder or the ZIP. Recipients extract it and open index.html.
+Your browser progress is not included in the folder. Only send a separate
+progress backup if you intend to share that learning history.
+
+SOURCES AND SCOPE
+Learning content is based exclusively on the supplied official Washington
+Driver Guide, edition 520-400 (R/4/25), downloaded November 9, 2026:
+https://dol.wa.gov/media/pdf/4745/driver-guidepdf/download?inline
+
+Only mock-test length and passing score use this additional official source:
+https://dol.wa.gov/driver-licenses-and-permits/driver-training-and-testing/do-i-need-take-test
+
+These are original practice questions, NOT actual DOL exam questions.
+This independent app is not endorsed by or affiliated with Washington DOL.
+There is no asserted official time limit: the elapsed display is informational
+and includes time away from a saved session. Topic distribution, XP, badges,
+review scheduling, and interface are app choices, not official test rules.
+Practice scores do not guarantee a passing result on an official exam.
+
+Source links use PDF viewer page numbers, not chapter-section numbering.
+Some browsers ignore PDF page fragments; enter the stated page manually.
+Search text may lose formatting. The original PDF remains authoritative.
+The app reflects the included guide edition and does not auto-update laws.
+
+KEYBOARD
+Tab / Shift+Tab: navigate controls. Enter / Space: activate buttons.
+Practice and mock questions: 1–4 select an answer.
+Practice: Enter advances after answering when focus is outside a button.
+Flashcards: Space flips when focus is outside a button.
+
+PRIVACY & TECHNICAL NOTES
+No analytics, accounts, external fonts, libraries, or network APIs.
+External source links require internet only if clicked.
+Audio is generated locally using Web Audio after user interaction.
+All assets load from relative paths using ordinary scripts (no fetch, module
+loading, service worker, build tools, or server dependency).
+
+VERSION
+Evergreen Drive 1.0 — November 9, 2026.
